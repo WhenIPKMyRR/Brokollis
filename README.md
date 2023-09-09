@@ -4,7 +4,7 @@
   <p>👨‍💻 My skills include:</p>
   <ul>
     <li>Web development using HTML, CSS, and TypeScript.</li>
-    <li>Back-end development using Node.js and Express</li>
+    <li>Back-end development using Node.js, Express and C#</li>
     <li>Database management using MYSQL</li>
   </ul>
   <p>🎓 I'm currently studying Analysis and Systems Development at Senac Santa Catarina, and I'm also learning C#.</p>
